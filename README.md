@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-ciuldim-bonagurio-a42940196" />
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://br.linkedin.com/in/diego-ciuldim-bonagurio-a42940196)](https://br.linkedin.com/in/diego-ciuldim-bonagurio-a42940196)
+<a href="link=https://br.linkedin.com/in/diego-ciuldim-bonagurio-a42940196" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 
