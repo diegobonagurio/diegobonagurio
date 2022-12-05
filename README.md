@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Diego Bonagurio
 
-Readme in construction... 😁
+Enthusiastic about learning about technology, IoT, API's and frontend development (web and mobile) 
 
 <!--
 **diegobonagurio/diegobonagurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
