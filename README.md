@@ -2,6 +2,8 @@
 
 Enthusiastic about learning about technology, IoT, API's and frontend development (web and mobile) 
 
+Full stack programmer passionate about technology and always seeking new challenges. With solid skills in various programming languages, frameworks, and technologies, I'm constantly learning and updating myself to offer innovative and effective solutions. I'm driven by tough problems and have patience to find creative solutions. In addition, I value quality and excellence and am always looking for ways to exceed my clients' expectations.
+
 <!--
 **diegobonagurio/diegobonagurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
